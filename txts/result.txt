@@ -1,0 +1,6 @@
+Name            Average Grade
+------------------------------
+John             80.00    B
+Nik              65.00    D
+Terry            69.33    D
+Nikhil          100.00    A
